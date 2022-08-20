@@ -281,14 +281,3 @@ defaults:
       type: pages
     values:
       layout: single
-<<<<<<< HEAD
-      author_profile: true
-=======
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
-
-theme: jekyll-theme-minimal
->>>>>>> 0c6c263cc362bfc43c6c8ea6994f96b112cc4034
