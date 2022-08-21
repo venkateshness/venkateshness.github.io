@@ -3,7 +3,6 @@ permalink: /
 author_profile: true
 header:
   image: /assets/images/header.png
-toc: true
 ---
 
 # About
