@@ -6,7 +6,7 @@ header:
 toc: true
 ---
 
-
+# About
 ## Bio
 A data science fellow by formal training, a Cognitive Neuroscience aficionado by fervour, doing research at the converging frontier of Neuroscience and Artificial Intelligence, to answer wide range of outstanding/incompletely answered questions relating to **Consciousness**.
 
