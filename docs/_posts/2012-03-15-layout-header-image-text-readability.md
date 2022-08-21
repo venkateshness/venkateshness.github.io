@@ -1,7 +1,5 @@
 ---
 title: "Layout: Header Image and Text Readability"
-header:
-  image: /assets/images/thun.jpeg
   caption: 
 tags: 
   - sample post
