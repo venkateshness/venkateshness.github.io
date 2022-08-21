@@ -23,6 +23,6 @@ My academic interests and some of my personal interests fuse at several areas:
 
 ## Education
 * 2022 - present: PhD in Cognitive Neuroscience at Team [BRAIn](<http://brain.bzh>) hosted at IMT Atlantique, France
-* 2022 - present: PhD in Cognitive Neuroscience at Computational and Cognitive Neuroscience (CoCo) lab, hosted at Université de Montréal
+* 2022 - present: PhD in Cognitive Neuroscience at Cognitive & Computational Neuroscience (CoCo) lab, hosted at Université de Montréal
 * 2021: Master of Science in Data Science at IMT Atlantique, FR
 * 2016: Bachelor of Engineering in Computer Science at Anna University, India
