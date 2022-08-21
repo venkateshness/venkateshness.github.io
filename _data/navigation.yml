@@ -1,12 +1,8 @@
 # main links
 main:
-  - title: "Education"
-   # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Personal Interests"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
   - title: "Thoughts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /thoughts/
