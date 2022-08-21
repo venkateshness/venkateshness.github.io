@@ -3,6 +3,7 @@ permalink: /
 author_profile: true
 header:
   image: /assets/images/header.png
+toc: true
 ---
 
 <h1> About</h1>
