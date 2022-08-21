@@ -5,7 +5,8 @@ header:
   image: /assets/images/header.png
 ---
 
-# About
+<h1> About</h1>
+
 ## Bio
 A data science fellow by formal training, a Cognitive Neuroscience aficionado by fervour, doing research at the converging frontier of Neuroscience and Artificial Intelligence, to answer wide range of outstanding/incompletely answered questions relating to **Consciousness**.
 
