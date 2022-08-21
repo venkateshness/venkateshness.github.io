@@ -9,7 +9,7 @@ toc: true
 <h1> About</h1>
 
 ## Bio
-A data science fellow by formal training, a Cognitive Neuroscience aficionado by fervour, doing research at the converging frontier of Neuroscience and Artificial Intelligence, to answer wide range of outstanding/incompletely answered questions relating to **Consciousness**.
+A data science fllow by formal training, a Cognitive Neuroscience aficionado by fervour, doing research at the converging frontier of Neuroscience and Artificial Intelligence, to answer wide range of outstanding/incompletely answered questions relating to **Consciousness**.
 
 My PhD contributes to understanding more about the rise of consciousness through biological neural networks,
 by leveraging Multimodal Neuroimaging -- Electroencephalogram (EEG), Magnetic Resonance Imaging(MRI) -- Deep Learning and Graph Signal Processing.
