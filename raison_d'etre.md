@@ -6,7 +6,7 @@ author_profile: true
 
 <h1> The raison(s) d'être </h1>
 
-1. Humans have historically been explorers; from looking into the dark starry sky with tiny telescopes & figuring out the sun being the host star, to placing the ingenious and astonishing James-Webb Space Telescope looking further back in time, we have always been intrigued by: How it all came to be ?. It discomforts me: How do we know more about the cosmos authored by the brain/mind, than knowing about the author in the first place ?
+1. Humans have historically been explorers; from looking into the dark starry sky with tiny telescopes & figuring out the sun being the host star, to placing the ingenious James-Webb Space Telescope looking further back in time, we have always been intrigued by: How it all came to be ?. It discomforts me: How do we know more about the cosmos authored by the brain/mind, than knowing about the author in the first place ?
 
 2. Even though the necessary ingredients that go into making a person a person does not vary much between people, everyone is pretty unique -- driven by rich experiences, perception and so on. I wonder if there is at all a point of divergence ?
 
@@ -15,5 +15,7 @@ author_profile: true
 
 # To realize the mentioned:
 During my PhD, it has been set out to study with Multimodal Neuroimaging data as it provides access to complementary understanding in space and time. Besides, I use Graph Signal Processing[^1], coupled with Deep Learning to shed more lights in a data-driven and/or hypothesis-driven way.
+
+Godspeed !
 
 [^1]: Framework that aims at studying the spectral properties of the graph -- modeled using Graph Theory -- laplacian with the help of the classical fourier transform but on the irregular domain.
