@@ -4,9 +4,9 @@ author_profile: true
 ---
 
 
-## The raison(s) d'être
+<h1> The raison(s) d'être </h1>
 
-1. Humans have historically been explorers; from looking into the dark starry sky with tiny telescopes & figuring out the sun being the hosting star, to placing the ingenious and astonishing James-Webb Space Telescope looking further back in time, we have always been intrigued by: How it all came to be ?. It discomforts me : How do we know more about the cosmos authored by the brain/mind, than knowing about the author in the first place ?
+1. Humans have historically been explorers; from looking into the dark starry sky with tiny telescopes & figuring out the sun being the hosting star, to placing the ingenious and astonishing James-Webb Space Telescope looking further back in time, we have always been intrigued by: How it all came to be ?. It discomforts me: How do we know more about the cosmos authored by the brain/mind, than knowing about the author in the first place ?
 
 2. Even though the necessary ingredients go into making a person a person does not vary much between people, everyone is pretty unique -- driven by rich experiences, perception and so on. I wonder if there is at all a point of divergence ?
 
