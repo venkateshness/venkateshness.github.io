@@ -2,6 +2,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "Raison d'être"
+    url: /raison_d'etre/
   - title: "Projects"
     url: /projects/
   - title: "Thoughts"
