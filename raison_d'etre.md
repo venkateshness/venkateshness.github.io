@@ -14,7 +14,7 @@ author_profile: true
 
 
 # To realize the mentioned:
-During my PhD, it has been set out to study with Multimodal Neuroimaging data as it provides access to complementary understanding in space and time. Besides, I use Graph Signal Processing[^1], coupled with Deep Learning to shed more lights in a data-driven and/or hypothesis-driven way.
+During my PhD, it has been set out to study using Multimodal Neuroimaging setup as it provides access to complementary knowledge in space and time. Besides, I use Graph Signal Processing[^1], coupled with Deep Learning to shed more lights in a data-driven and/or hypothesis-driven way.
 
 Godspeed !
 
