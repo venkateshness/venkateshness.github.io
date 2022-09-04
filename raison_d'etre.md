@@ -10,7 +10,7 @@ author_profile: true
 
 2. Even though the necessary ingredients go into making a person a person does not vary much between people, everyone is pretty unique -- driven by rich experiences, perception and so on. I wonder if there is at all a point of divergence ?
 
-3. Not being completely dismissive of the (other) idea(s) of Philosophy of Mind philosophically; I am more intrigued by the physical phenomenon that gives rise to the emergence of consciousness via the biological neural networks. I wonder would there be quantifiable consciousness levels with the scientifically rigorous methods ?
+3. Not being completely dismissive of the (other) idea(s) of Philosophy of Mind philosophically; I am more inclined to the physical phenomenon view that gives rise to the emergence of consciousness via the biological neural networks. I wonder would there be quantifiable consciousness levels with the scientifically rigorous methods ?
 
 
 To realize the mentioned:
