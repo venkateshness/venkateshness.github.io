@@ -6,5 +6,5 @@ main:
     url: /raison_d'etre/
   - title: "Projects"
     url: /projects/
-  - title: "Thoughts"
-    url: /thoughts/
+  - title: "Misc"
+    url: /misc/
