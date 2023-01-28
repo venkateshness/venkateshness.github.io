@@ -7,13 +7,13 @@ author_profile: true
 ## Books 
 
 Read:
-* **The Power of Subconsious Mind, Joseph Murphy, 1963** - Read in 2017; unsolicited intro to 'Self', catalyst of a role during confinement, led me to hunt more.
-* **The New Mind Readers: What Neuroimaging Can and Cannot Reveal About Our Thoughts, Russell Poldrack, 2018** - Great ride into the world of Neuroimaging research
-* **Astrophysics for People in a Hurry, Neil deGrasse Tyson, 2017** - Gem of 244 pages; amazing narration
-* **I Am a Strange Loop, Douglas Hofstadter, 2007** - Shook my world, life-changing, lingering-effect daily
-* **The Mind's I, Daniel Dennett and Douglas Hofstadter, 1961** - Most chapters are thoroughly enjoyable, took sometime to get absorbed by the ever-changing premises
-* **Contact, Carl Sagan, 1985** - The amazing narration made it easier to construct the world mentally. Not sure I would say I loved the ending.
-* **The Alchemist, Paulo Coelho, 1988** - Mixed feeling
+* *The Power of Subconsious Mind, Joseph Murphy, 1963* - Read in 2017; unsolicited intro to 'Self', catalyst of a role during confinement, led me to hunt more.
+* *The New Mind Readers: What Neuroimaging Can and Cannot Reveal About Our Thoughts, Russell Poldrack, 2018* - Great ride into the world of Neuroimaging research
+* *Astrophysics for People in a Hurry, Neil deGrasse Tyson, 2017* - Gem of 244 pages; amazing narration
+* *I Am a Strange Loop, Douglas Hofstadter, 2007* - Shook my world, life-changing, lingering-effect daily
+* *The Mind's I, Daniel Dennett and Douglas Hofstadter, 1961* - Most chapters are thoroughly enjoyable, took sometime to get absorbed by the ever-changing premises
+* *Contact, Carl Sagan, 1985* - The amazing narration made it easier to construct the world mentally. Not sure I would say I loved the ending.
+* *The Alchemist, Paulo Coelho, 1988* - Mixed feeling
 
 Reading:
 * Gödel, Escher, Bach: an Eternal Golden Braid, Douglas Hofstadter, 1979
