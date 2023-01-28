@@ -36,6 +36,9 @@ Eyeing at:
 * Rhythms of the brain, György Buzsáki, 2006
 * Starry Messenger: Cosmic Perspectives on Civilisation, Neil deGrasse Tyson, 2022
 * Valis, Philip K. Dick
+* Principles of brain evolution, Georg F. Striedter, 2005
+* Sentience: The Invention of Consciousness, Nicholas Humphrey, 2022
+
 
 ## Thoughts
 
