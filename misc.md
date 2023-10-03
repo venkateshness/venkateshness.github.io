@@ -5,14 +5,13 @@ author_profile: true
 <h1> Collection of unassorted things </h1>
 
 ## Books 
-
-Read:
+Read (sorted chronologically as read):
 * *The Power of Subconsious Mind, Joseph Murphy, 1963* - Read in 2017; unsolicited intro to 'Self', catalyst of a role during confinement in 2020, led me to hunt more.
 * *The New Mind Readers: What Neuroimaging Can and Cannot Reveal About Our Thoughts, Russell Poldrack, 2018* - Great ride into the world of Neuroimaging research
-* *Astrophysics for People in a Hurry, Neil deGrasse Tyson, 2017* - Gem of 244 pages; amazing narration
-* *I Am a Strange Loop, Douglas Hofstadter, 2007* - Shook my world, life-changing, lingering-effect daily
-* *The Mind's I, Daniel Dennett and Douglas Hofstadter, 1981* - Most chapters are thoroughly enjoyable, took sometime to get absorbed by the ever-changing premises
-* *Contact, Carl Sagan, 1985* - The amazing narration made it easier to construct the world mentally. Not sure I would say I loved the ending.
+* *Astrophysics for People in a Hurry, Neil deGrasse Tyson, 2017* - Gem of 244 pages; eloquent narration
+* *I Am a Strange Loop, Douglas Hofstadter, 2007* - Shook my world, life-changing, lingering-effect daily. Terrific experience.
+* *The Mind's I, Daniel Dennett and Douglas Hofstadter, 1981* - Most chapters are such a pleasure to read and ponder, took sometime to get absorbed by the ever-changing premises
+* *Contact, Carl Sagan, 1985* - The amazing narration made it easier to construct the world mentally. Not sure I would say I loved the ending, but solid overall.
 * *The Alchemist, Paulo Coelho, 1988* - Mixed feeling
 
 Reading:
